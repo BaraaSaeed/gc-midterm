@@ -19,6 +19,9 @@ public class MidTerm {
 
 		// Jackie
 		System.out.println("This public broadcast was brought to you by the number 7 and the letter M!");
+		
+		//Sienna
+		System.out.println("BREAKING NEWS: The letter M has been signed to  Golden State!");
 
 	}
 
