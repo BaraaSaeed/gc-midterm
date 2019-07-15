@@ -9,7 +9,7 @@ public class MidTerm {
 
 	public static void main(String[] args) {
 		System.out.println(
-				"Once upon a time in the mystical land of Shangrila \n there dwelt an immortal named Kai-Yun and his trusty \n band of ninja monkeys. They were very clever monkeys indeed, known for their ingenious teamwork.");
+				"Once upon a time in the mystical land of Detroit \n there dwelt an immortal named Kai-Yun and his trusty \n band of ninja monkeys. They were very clever monkeys indeed, known for their ingenious teamwork.");
 		// Sienna
 
 		System.out.println(
