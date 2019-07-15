@@ -16,6 +16,10 @@ public class MidTerm {
 				"But following Kai-Yun’s unifying leadership, they paired up and mowed down their foes. One-by-one every last pesky bug fell at the quick hands of the monkeys.");
 		// Baraa
 		System.out.println("Hi team! It is me Baraa Ali");
+
+		// Jackie
+		System.out.println("This public broadcast was brought to you by the number 7 and the letter M!");
+
 	}
 
 }
